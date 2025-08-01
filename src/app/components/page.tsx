@@ -33,25 +33,27 @@ export default function ComponentsPage() {
 								lineHeight: 2
 							}}
 						>
-							<div
-								style={{
-									display: "flex",
-									gap: "0.5rem",
-									position: "absolute",
-									right: 0,
-									top: "70%",
-									transform: "translate(0, 70%)",
-									background: "var(--ff-bg)",
-									padding: "0.3rem 0.5rem",
-									borderRadius: "5px 5px 0 0"
-								}}
-							>
-								{tags?.slice(0, 3).map((tag, i) => (
-									<Badge key={`${tag}-${i}`} variant="outlined">
-										{tag}
-									</Badge>
-								))}
-							</div>
+							{tags && (
+								<div
+									style={{
+										display: "flex",
+										gap: "0.5rem",
+										position: "absolute",
+										right: 0,
+										top: "70%",
+										transform: "translate(0, 70%)",
+										background: "var(--ff-bg)",
+										padding: "0.3rem 0.5rem",
+										borderRadius: "5px 5px 0 0"
+									}}
+								>
+									{tags.slice(0, 3).map((tag, i) => (
+										<Badge key={`${tag}-${i}`} variant="outlined">
+											{tag}
+										</Badge>
+									))}
+								</div>
+							)}
 
 							<Image
 								priority
