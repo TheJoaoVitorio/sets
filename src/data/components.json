@@ -1,0 +1,452 @@
+[
+	{
+		"label": "shadcn/ui",
+		"link": "https://ui.shadcn.com",
+		"tags": ["React", "Tailwind", "Chart"],
+		"license": "MIT"
+	},
+	{
+		"label": "Radix UI",
+		"link": "https://www.radix-ui.com",
+		"tags": ["React"],
+		"license": "MIT"
+	},
+	{
+		"label": "HeroUI",
+		"link": "https://www.heroui.com",
+		"tags": ["Tailwind", "React"],
+		"license": "MIT"
+	},
+	{
+		"label": "Float UI",
+		"link": "https://floatui.com",
+		"tags": ["Tailwind", "React", "Vue", "Svelte", "Alpine", "Templates"]
+	},
+	{
+		"label": "Tailblocks",
+		"link": "https://tailblocks.cc",
+		"tags": ["Tailwind", "HTML", "Copy&Paste"],
+		"license": "MIT"
+	},
+	{
+		"label": "Component Gallery",
+		"link": "https://component.gallery/components/"
+	},
+	{
+		"label": "Headless UI",
+		"link": "https://headlessui.com",
+		"tags": ["Tailwind", "React", "Vue"],
+		"license": "MIT"
+	},
+	{
+		"label": "Mantine UI",
+		"link": "https://ui.mantine.dev",
+		"tags": ["React"],
+		"license": "MIT"
+	},
+	{
+		"label": "Tailus UI",
+		"link": "https://tailus.io",
+		"tags": ["Tailwind", "Templates"],
+		"license": "CC"
+	},
+	{
+		"label": "Rewind-UI",
+		"link": "https://rewind-ui.dev",
+		"tags": ["React", "Tailwind"],
+		"license": "MIT"
+	},
+	{
+		"label": "Preline UI",
+		"link": "https://preline.co/",
+		"tags": ["Tailwind", "React", "Vue", "Templates"],
+		"license": "MIT"
+	},
+	{
+		"label": "HyperUI",
+		"link": "https://www.hyperui.dev",
+		"tags": ["Tailwind", "HTML", "Copy&Paste"],
+		"license": "MIT"
+	},
+	{
+		"label": "LangUI",
+		"link": "https://www.langui.dev",
+		"tags": ["HTML", "Tailwind", "Copy&Paste"]
+	},
+	{
+		"label": "Shadcn for Vue",
+		"link": "https://www.shadcn-vue.com",
+		"tags": ["Vue", "Tailwind"],
+		"license": "MIT"
+	},
+	{
+		"label": "daisyUI",
+		"link": "https://daisyui.com",
+		"tags": ["Tailwind"]
+	},
+	{
+		"label": "magecdn SVG Loaders",
+		"link": "https://magecdn.com/tools/svg-loaders",
+		"license": "MIT",
+		"tags": ["Loaders"]
+	},
+	{
+		"label": "UIverse",
+		"link": "https://uiverse.io",
+		"tags": ["HTML", "Copy&Paste"],
+		"license": "MIT"
+	},
+	{
+		"label": "Material UI",
+		"link": "https://mui.com/material-ui/",
+		"tags": ["React"],
+		"license": "MIT"
+	},
+	{
+		"label": "Material Tailwind",
+		"link": "https://www.material-tailwind.com",
+		"tags": ["React", "Remix", "Gatsby", "Tailwind"],
+		"license": "Freemium"
+	},
+	{
+		"label": "Ark UI",
+		"link": "https://ark-ui.com",
+		"tags": ["Headless", "React", "Solid", "Vue"],
+		"license": "MIT"
+	},
+	{
+		"label": "Park UI",
+		"link": "https://park-ui.com",
+		"tags": ["React", "Solid", "Panda", "Tailwind"],
+		"license": "MIT"
+	},
+	{
+		"label": "Wedges",
+		"link": "https://www.lemonsqueezy.com/wedges",
+		"tags": ["React"],
+		"license": "MIT"
+	},
+	{
+		"label": "Melt UI",
+		"link": "https://melt-ui.com",
+		"tags": ["Svelte", "Accessible"]
+	},
+	{
+		"label": "Tremor",
+		"link": "https://www.tremor.so",
+		"tags": ["Chart", "React"],
+		"license": "Apache License 2.0"
+	},
+	{
+		"label": "Vuesax",
+		"link": "https://vuesax.com",
+		"tags": ["Vue"],
+		"license": "Free"
+	},
+	{
+		"label": "Chart.js",
+		"link": "https://www.chartjs.org",
+		"tags": ["Chart", "React", "Vue", "Svelte", "Angular"],
+		"license": "MIT"
+	},
+	{
+		"label": "Sonner",
+		"link": "https://sonner.emilkowal.ski",
+		"tags": ["Toast", "React"],
+		"license": "MIT"
+	},
+	{
+		"label": "Aceternity UI",
+		"link": "https://ui.aceternity.com",
+		"tags": ["React", "Tailwind", "Motion"]
+	},
+	{
+		"label": "LayerChart",
+		"link": "https://www.layerchart.com",
+		"tags": ["Svelte", "Chart"],
+		"license": "MIT"
+	},
+	{
+		"label": "Bits UI",
+		"link": "https://www.bits-ui.com/",
+		"tags": ["Svelte", "Headless"]
+	},
+	{
+		"label": "Angular Material",
+		"link": "https://material.angular.io",
+		"tags": ["Angular"],
+		"license": "MIT"
+	},
+	{
+		"label": "Svelte UX",
+		"link": "https://svelte-ux.techniq.dev",
+		"tags": ["Svelte"],
+		"license": "MIT"
+	},
+	{
+		"label": "buttons.ibelick",
+		"link": "https://buttons.ibelick.com",
+		"tags": ["Buttons", "Tailwind", "Copy&Paste"]
+	},
+	{
+		"label": "3D buttons",
+		"link": "https://csspro.com/css-3d-buttons/",
+		"tags": ["3D", "Buttons", "Copy&Paste"]
+	},
+	{
+		"label": "Zag",
+		"link": "https://zagjs.com",
+		"tags": ["React", "Vue", "Solid"],
+		"license": "MIT"
+	},
+	{
+		"label": "Chakra UI",
+		"link": "https://chakra-ui.com",
+		"tags": ["React"],
+		"license": "MIT"
+	},
+	{
+		"label": "Pines",
+		"link": "https://devdojo.com/pines",
+		"tags": ["Tailwind", "Alpine"]
+	},
+	{
+		"label": "TW Elements",
+		"link": "https://tw-elements.com",
+		"tags": ["Tailwind"],
+		"license": "AGPL",
+		"licenseDescription": "You can use it for free as long as you open source the entirety of your project. AGPL is \"sticky\" which means you have to apply the same license to any project you build with TWE & open the project to the public."
+	},
+	{
+		"label": "CSS checkboxes",
+		"link": "https://getcssscan.com/css-checkboxes-examples?ref=css-3d-buttons-bottom",
+		"tags": ["HTML", "Checkboxes", "Copy&Paste"]
+	},
+	{
+		"label": "CSS box-shadow",
+		"link": "https://getcssscan.com/css-box-shadow-examples",
+		"tags": ["HTML", "Shadows", "Copy&Paste"]
+	},
+	{
+		"label": "LoaderShip",
+		"link": "https://www.loadership.com",
+		"tags": ["Loaders", "CSS", "Copy&Paste"]
+	},
+	{
+		"label": "Flowbite",
+		"link": "https://flowbite.com",
+		"tags": ["Tailwind", "Copy&Paste"],
+		"license": "Freemium"
+	},
+	{
+		"label": "Lightweight charts",
+		"link": "https://www.tradingview.com/lightweight-charts/",
+		"tags": ["Chart"],
+		"license": "Freemium with attribution"
+	},
+	{
+		"label": "Toggles",
+		"link": "https://toggles.dev",
+		"tags": ["Toggles", "HTML", "Copy&Paste"],
+		"license": "MIT"
+	},
+	{
+		"label": "tailwindUI",
+		"link": "https://tailwindui.com",
+		"tags": ["Tailwind", "React", "Vue", "Copy&Paste"],
+		"license": "Freemium"
+	},
+	{
+		"label": "Tailwind UI KIT",
+		"link": "https://www.tailwind-kit.com",
+		"tags": ["Tailwind", "HTML", "Copy&Paste"],
+		"license": "MIT"
+	},
+	{
+		"label": "Hola svg",
+		"link": "https://loaders.holasvg.com",
+		"tags": ["Loaders"],
+		"license": "MIT"
+	},
+	{
+		"label": "LDRS",
+		"link": "https://uiball.com/ldrs",
+		"tags": ["Loaders"],
+		"license": "MIT"
+	},
+	{
+		"label": "10015 Tools",
+		"link": "https://10015.io/tools/css-loader-generator",
+		"tags": ["Loaders"],
+		"license": "Free"
+	},
+	{
+		"label": "React Responsive Pagination",
+		"link": "https://react-responsive-pagination.elantha.com",
+		"tags": ["Pagination", "React"]
+	},
+	{
+		"label": "SVG Loaders",
+		"link": "https://samherbert.net/svg-loaders/",
+		"tags": ["Loaders"],
+		"license": "MIT"
+	},
+	{
+		"label": "CSS loaders",
+		"link": "https://css-loaders.com",
+		"tags": ["Loaders"]
+	},
+	{
+		"label": "CSS loaders and spinners",
+		"link": "https://cssloaders.github.io",
+		"tags": ["Loaders"],
+		"license": "MIT"
+	},
+	{
+		"label": "ui.ibelick",
+		"link": "https://ui.ibelick.com",
+		"tags": ["Effects", "React", "Tailwind"]
+	},
+	{
+		"label": "Lobe UI",
+		"link": "https://ui.lobehub.com",
+		"license": "MIT"
+	},
+	{
+		"label": "Drams",
+		"link": "https://drams.framer.website",
+		"tags": ["Framer"]
+	},
+	{
+		"label": "enhanced-button",
+		"link": "https://enhanced-button.vercel.app/",
+		"tags": ["Buttons"]
+	},
+	{
+		"label": "Kibo UI",
+		"link": "https://www.kibo-ui.com/",
+		"tags": ["TypeScript", "React", "Tailwind", "Shadcn", "Lucide"]
+	},
+	{
+		"label": "PrimeReact",
+		"link": "https://primereact.org/",
+		"tags": ["React"]
+	},
+	{
+		"label": "cult/ui",
+		"link": "https://www.cult-ui.com/",
+		"tags": ["Tailwind", "React"]
+	},
+	{
+		"label": "Magic UI",
+		"link": "https://magicui.design/",
+		"tags": ["Tailwind", "React", "Typescript", "Framer", "Templates"],
+		"license": "MIT"
+	},
+	{
+		"label": "AnimatiSS",
+		"link": "https://xsgames.co/animatiss/",
+		"tags": ["Animations", "CSS"]
+	},
+	{
+		"label": "Codrops",
+		"link": "https://tympanus.net/codrops/demos/",
+		"tags": ["Three.js", "Webgl"]
+	},
+	{
+		"label": "Intent UI",
+		"link": "https://intentui.com/",
+		"tags": ["Accessible", "Aria", "React", "Tailwind"]
+	},
+	{
+		"label": "Tailbits",
+		"link": "https://www.tailbits.com",
+		"license": "CC-BY-4.0",
+		"licenseDescription": "This project is licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt the material for any purpose, even commercially, as long as you provide appropriate credit, a link to the license, and indicate if changes were made.",
+		"tags": ["Templates", "Tailwind", "HTML", "Copy&Paste"]
+	},
+	{
+		"label": "React Bits",
+		"link": "https://www.reactbits.dev",
+		"tags": ["React", "Animations", "Copy&Paste"]
+	},
+	{
+		"label": "Cuicui",
+		"link": "https://cuicui.day",
+		"tags": ["React", "Typescript", "Motion", "Tailwind"]
+	},
+	{
+		"label": "Eldora UI",
+		"link": "https://eldoraui.site/",
+		"tags": ["Tailwind", "React", "Typescript", "Framer"],
+		"license": "MIT"
+	},
+	{
+		"label": "SmoothUI",
+		"link": "https://www.smoothui.dev/",
+		"tags": ["React", "Tailwind", "Animations", "Motion"],
+		"license": "MIT"
+	},
+	{
+		"label": "TW Components",
+		"link": "https://www.creative-tim.com/twcomponents",
+		"tags": ["Tailwind", "HTML", "Copy&Paste"]
+	},
+	{
+		"label": "React Hot Toast",
+		"link": "https://react-hot-toast.com/",
+		"tags": ["React", "Toast"],
+		"license": "MIT"
+	},
+	{
+		"label": "Motion-Primitives",
+		"link": "https://motion-primitives.com",
+		"tags": ["Framer", "React"],
+		"license": "MIT"
+	},
+	{
+		"label": "Fulldev UI",
+		"link": "https://ui.full.dev",
+		"tags": ["Astro"],
+		"license": "MIT"
+	},
+	{
+		"label": "Origin UI",
+		"link": "https://originui.com/",
+		"tags": ["React", "Tailwind", "Next.js", "Copy&Paste"],
+		"license": "Free"
+	},
+	{
+		"label": "Fancy Components",
+		"link": "https://www.fancycomponents.dev/",
+		"tags": ["React", "Tailwind", "TypeScript", "Motion"],
+		"license": "MIT"
+	},
+	{
+		"label": "HTMLrev",
+		"link": "https://htmlrev.com/",
+		"tags": ["Templates", "Tailwind", "React", "Vue", "Svelte", "Astro"]
+	},
+	{
+		"label": "Stepperize",
+		"link": "https://stepperize.vercel.app/",
+		"tags": ["Multi-Step Flows", "Forms", "React", "Vue", "Solid", "Svelte"]
+	},
+	{
+		"label": "Mvpblocks",
+		"link": "https://blocks.mvp-subha.me/",
+		"tags": ["React", "Tailwind"]
+	},
+	{
+		"label": "SHSF UI",
+		"link": "https://www.shsfui.com/",
+		"tags": ["TypeScript", "React", "Tailwind", "Motion", "Shadcn"]
+	},
+	{
+		"label": "feflow",
+		"link": "https://feflow.dxdns.dev",
+		"image": "https://res.cloudinary.com/dkufrbqih/image/upload/v1753372262/feflow.dxdns.dev__ateepa.png",
+		"tags": ["Svelte", "React", "Vue"],
+		"license": "MIT"
+	}
+]

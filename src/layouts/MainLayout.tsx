@@ -15,10 +15,11 @@ export default function MainLayout({ children }: Props) {
 					display: "flex",
 					alignItems: "center",
 					justifyContent: "center",
-					minHeight: "100vh"
+					minHeight: "100vh",
+					overflow: "hidden"
 				}}
 			>
-				<div style={{ width: "90%", minHeight: "100vh" }}>
+				<div style={{ width: "90%", minHeight: "100vh", padding: "1rem" }}>
 					<Navbar />
 					<div style={{ padding: "1rem" }}>{children}</div>
 				</div>
