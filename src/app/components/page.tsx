@@ -2,6 +2,7 @@
 import apiService from "@/services/apiService"
 import { Badge, Card } from "@dxdns/feflow-react"
 import Image from "next/image"
+import styles from "./page.module.css"
 
 export default function ComponentsPage() {
 	const api = apiService()
@@ -44,7 +45,8 @@ export default function ComponentsPage() {
 										transform: "translate(0, 70%)",
 										background: "var(--ff-bg)",
 										padding: "0.3rem 0.5rem",
-										borderRadius: "5px 5px 0 0"
+										borderRadius: "5px 5px 0 0",
+										zIndex: 1
 									}}
 								>
 									{tags.slice(0, 3).map((tag, i) => (
@@ -57,6 +59,7 @@ export default function ComponentsPage() {
 
 							<Image
 								priority
+								className={styles.image}
 								alt="feflow"
 								src={
 									image ??
