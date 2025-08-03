@@ -10,7 +10,18 @@ export default function ComponentsPage() {
 
 	return (
 		<>
-			<h1>Components Page</h1>
+			<div
+				style={{
+					display: "flex",
+					alignItems: "center",
+					gap: "0.75rem",
+				}}
+			>
+				<h1 className={styles.title}>Components Page</h1>
+				<Badge size="md">{data.length}</Badge>
+			</div>
+
+
 			<div
 				style={{
 					display: "grid",
