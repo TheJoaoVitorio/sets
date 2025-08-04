@@ -13,6 +13,7 @@ import { Wrench } from 'lucide-react';
 import { Component } from 'lucide-react';
 import { Dice4 } from 'lucide-react';
 import { LayoutDashboard } from 'lucide-react';
+import { ChevronUp } from 'lucide-react';
 
 
 export class Icons {
@@ -31,6 +32,7 @@ export class Icons {
     static Component = (props: React.ComponentProps<typeof Component>) => <Component {...props} />;
     static Background = (props: React.ComponentProps<typeof Dice4>) => <Dice4 {...props} />;
     static LayoutDashboard = (props: React.ComponentProps<typeof LayoutDashboard>) => <LayoutDashboard {...props} />;
+    static ChevronUp = (props: React.ComponentProps<typeof ChevronUp>) => <ChevronUp {...props} />;
 }
 
 export default Icons;

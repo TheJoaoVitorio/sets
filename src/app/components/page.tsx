@@ -1,8 +1,10 @@
 "use client"
 import apiService from "@/services/apiService"
 import { Badge, Card } from "@dxdns/feflow-react"
+import { ButtonScroll } from "@/components/ButtonScroll"
 import Image from "next/image"
 import styles from "./page.module.css"
+
 
 export default function ComponentsPage() {
 	const api = apiService()
@@ -10,7 +12,18 @@ export default function ComponentsPage() {
 
 	return (
 		<>
-			<h1>Components Page</h1>
+			<div
+				style={{
+					display: "flex",
+					alignItems: "center",
+					gap: "0.75rem",
+				}}
+			>
+				<h1 className={styles.title}>Components Page</h1>
+				<Badge size="md">{data.length}</Badge>
+			</div>
+
+
 			<div
 				style={{
 					display: "grid",
@@ -92,6 +105,8 @@ export default function ComponentsPage() {
 							</div>
 						</Card>
 					))}
+
+				<ButtonScroll></ButtonScroll>
 			</div>
 		</>
 	)
