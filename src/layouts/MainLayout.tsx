@@ -16,12 +16,11 @@ export default function MainLayout({ children }: Props) {
 					alignItems: "center",
 					justifyContent: "center",
 					minHeight: "100vh",
-					overflow: "hidden"
 				}}
 			>
 				<div style={{ width: "90%", minHeight: "100vh", padding: "1rem" }}>
 					<Navbar />
-					<div style={{ padding: "1rem" }}>{children}</div>
+					{children}
 				</div>
 			</div>
 		</FeflowProvider>

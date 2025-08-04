@@ -4,25 +4,15 @@ import { Badge, Card } from "@dxdns/feflow-react"
 import { ButtonScroll } from "@/components/ButtonScroll"
 import Image from "next/image"
 import styles from "./page.module.css"
-
+import { Header } from "@/components/Header"
 
 export default function ComponentsPage() {
 	const api = apiService()
 	const data = api.getComponents()
 
 	return (
-		<>
-			<div
-				style={{
-					display: "flex",
-					alignItems: "center",
-					gap: "0.75rem",
-				}}
-			>
-				<h1 className={styles.title}>Components Page</h1>
-				<Badge size="md">{data.length}</Badge>
-			</div>
-
+		<div>
+			<Header title="Components" length={data.length} />
 
 			<div
 				style={{
@@ -108,6 +98,6 @@ export default function ComponentsPage() {
 
 				<ButtonScroll></ButtonScroll>
 			</div>
-		</>
+		</div>
 	)
 }

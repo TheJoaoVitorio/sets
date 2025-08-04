@@ -1,11 +1,3 @@
-.title {
-    font-size: clamp(1.5rem, 4vw, 2.5rem);
-    font-weight: bold;
-    line-height: 1.1;
-    margin: 0;
-    word-break: break-word;
-}
-
 .image {
     transition: all 0.3s ease;
 }

@@ -6,7 +6,7 @@ import { SearchIcon } from "lucide-react"
 export default function Navbar() {
 	return (
 		<div>
-			<div style={{ display: "flex", padding: "1rem", alignItems: "center" }}>
+			<div style={{ display: "flex", alignItems: "center" }}>
 				<h3>Sets</h3>
 				<div style={{ flex: "1" }}></div>
 				<div style={{ display: "flex", gap: "0.5rem", alignItems: "center" }}>
@@ -33,7 +33,7 @@ export default function Navbar() {
 					display: "grid",
 					gap: "0.5rem",
 					gridTemplateColumns: "repeat(auto-fill, minmax(150px, 1fr))",
-					padding: "1rem"
+					padding: "1rem 0"
 				}}
 			>
 				{[
