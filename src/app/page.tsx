@@ -9,7 +9,7 @@ export default function Home() {
 			style={{
 				position: "relative",
 				width: "100%",
-				height: 400,
+				height: 350,
 				margin: "0 auto"
 			}}
 		>
